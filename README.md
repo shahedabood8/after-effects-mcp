@@ -1,4 +1,7 @@
 <p align="center">
+  <a href="https://github.com/shahedabood8/after-effects-mcp/actions/workflows/build.yml">
+    <img src="https://github.com/shahedabood8/after-effects-mcp/actions/workflows/build.yml/badge.svg" alt="Build Status"/>
+  </a>
   <img src="https://img.shields.io/badge/After%20Effects-2024+-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects 2024+"/>
   <img src="https://img.shields.io/badge/MCP-Protocol-00D4AA?style=for-the-badge" alt="MCP Protocol"/>
   <img src="https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 18+"/>
